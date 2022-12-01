@@ -11,4 +11,4 @@ python sample.py -h -g -s sampling_method -d depth -i intensity -f imagefile
         -d : Number of levels for downsampling [default: 1]
         -i : Intensity levels, between 1 and 7 [default: 1]  
         -f : Image input path
-        -g : grayscale the input image [default: false]  <pre>
+        -g : grayscale the input image [default: false]
